@@ -1,3 +1,6 @@
+/**
+ * Клас, що представляє поп-композицію.
+ */
 public class PopComposition extends MusicComposition{
     public PopComposition(String title, String artist, int duration) {
         super(title, artist, duration);
